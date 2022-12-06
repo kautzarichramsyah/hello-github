@@ -22,3 +22,7 @@ PS:
 > git commit -m "[MESSAGE]"
 
 > git push origin min
+
+PS2" 
+
+I think it will be fun to start using Github!
